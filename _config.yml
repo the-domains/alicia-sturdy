@@ -1,5 +1,4 @@
 layout_spectrum: 1
-name: ALICIA STURDY
 opengraph:
   image: null
   type: null
@@ -10,18 +9,17 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
-typography_spectrum: 0.5770609
 color:
   saturation: 0.3512545
-  brandStrength: 1
   lightness: 0.6792115
+  brandStrength: 0.4982079
   brandColors:
     - '#FFFFFF'
     - '#030303'
@@ -29,6 +27,7 @@ color:
     - '#534241'
     - '#A4A3A2'
   rhythmicContrast: 0.5770609
+typography_spectrum: 0.5770609
 cta:
   bucket: null
   version: null
@@ -38,3 +37,4 @@ analytics:
   google: null
   facebook: null
 favicon: null
+name: ALICIA STURDY
